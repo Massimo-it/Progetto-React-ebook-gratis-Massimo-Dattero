@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+h3 {
+  background-color: lightgray;
+  padding: 5px 0;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+h4 {
+  background-color: whitesmoke;
+  padding: 5px 0;
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.message-h4 {
+  margin-top: 10px;
+}
+
+.button-search {
+  width: 70px;
+  height: 80px;
+  padding: 25px;
+  background-image: url("./pictures/fantasminoGIGIinGreen.jpg");
+  background-repeat: no-repeat;
+  border-radius: 10%;
+  cursor: pointer;
+  border: solid 1px black;
+}
+
+
+.search-section {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-image: url("./pictures/background-img.jpg");
+}
+
+.input-field {
+  margin: 10px;
+}
+
+.select-field {
+  margin-top: 10px;
+}
+
+.failed-search {
+  text-align: center;
+  width: 500px;
+  margin: 10px auto;
+  font-size: 30px;
+  padding: 10px;
+  border: solid 2px brown;
+}
+
+.author-title {
+  width: 250px;
+  color: black;
+  padding: 10px;
+}
+
+.container {
+  border: solid 2px gray;
+  width: 280px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: rgb(202, 202, 202);
+}
+.books {
+  width: 250px;
+  padding: 5px;
+  border: solid 2px darkblue;
+  margin: auto 5px;
+}
+
